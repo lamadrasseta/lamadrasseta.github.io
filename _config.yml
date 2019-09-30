@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: La Madrasseta Escola Popular
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Escola Popular del Sud de Sabadell, gratuïta i autogestionada. Compartir coneixement, construir comunitat.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
