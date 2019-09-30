@@ -36,7 +36,26 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: site.date_format }}</span>
+		  <!-- <span class="post-meta">Publicat el {{ page.date | date: site.date_format }}</span> -->
+<span class="post-meta">Publicat el 
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Gener
+  {% when '2' %}Febrer
+  {% when '3' %}Març
+  {% when '4' %}Abril
+  {% when '5' %}Maig
+  {% when '6' %}Juny
+  {% when '7' %}Juliol
+  {% when '8' %}Agost
+  {% when '9' %}Setembre
+  {% when '10' %}Octubre
+  {% when '11' %}Novembre
+  {% when '12' %}Desembre
+{% endcase %}
+{{ page.date | date: "%Y" }}
+</span> 
 		  {% endif %}
         </div>
       </div>
@@ -61,7 +80,25 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: site.date_format }}</span>
+<span class="post-meta">Publicat el 
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Gener
+  {% when '2' %}Febrer
+  {% when '3' %}Març
+  {% when '4' %}Abril
+  {% when '5' %}Maig
+  {% when '6' %}Juny
+  {% when '7' %}Juliol
+  {% when '8' %}Agost
+  {% when '9' %}Setembre
+  {% when '10' %}Octubre
+  {% when '11' %}Novembre
+  {% when '12' %}Desembre
+{% endcase %}
+{{ page.date | date: "%Y" }}
+</span> 
 		  {% endif %}
         </div>
       </div>
