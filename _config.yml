@@ -20,7 +20,7 @@ description: Escola Popular del Sud de Sabadell, gratuïta i autogestionada. Com
 
 # List of links in the navigation bar
 navbar-links:
-  Qui Som: "aboutme"
+  Qui Som: "quisom"
   Classes:
     - Alemany: "classes-alemany"
     - Anglès: "classes-angles"
