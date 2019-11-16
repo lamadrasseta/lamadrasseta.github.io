@@ -2,11 +2,33 @@
 layout: page
 title: Qui som
 subtitle: Aqui tambien puede ir texto
+published: true
 ---
+La Madrasseta és una escola popular i sense ànim de lucre que neix de la necessitat d'oferir i compartir coneixements de manera horitzontal entre les veïnes i els veïns de la ciutat. 
+Va néixer amb la intenció de garantir cursos d'idiomes tan comuns (i tan cars d'assumir) com l'anglès i l'alemany però també de donar a conèixer llengües i cultures tan riques com l'àrab o la llengua de signes.
+La Madrasseta és un projecte actiu i obert, on qualsevol ciutadà pot oferir el seu saber o gaudir dels seus recursos. Entenem l'educació com un dret bàsic universal i una manera preciosa de compartir la vida i aprendre cada dia a ser millors. És per això que no es busca el benefici econòmic sinó més aviat el benefici social, el teixit transformador.
 
-Y, viéndole don Quijote de aquella manera, con muestras de tanta tristeza, le dijo: Sábete, Sancho, que no es un hombre más que otro si no hace más que otro.
+**Llavors, és totalment gratuït?**
 
-Todas estas borrascas que nos suceden son señales de que presto ha de serenar el tiempo y han de sucedernos.
+Només es demana una quota anual d'un màxim de 20 euros que va destinada al manteniment de les aules i la compra de material. No hi ha ningú assalariat, tot el treball és voluntari.
 
-- Este es el elemento 1
-- Este es el elemento 2
+**Els cursos estan reconeguts?**
+
+Oficialment no. A l'acabar el curs atorguem un certificat d'assistència a l'associació.
+El curs de català té un certificat simbòlic de Plataforma per la Llengua.
+
+**Hi ha exàmens i notes?**
+
+No. Són classes dinàmiques on entre tots i totes ens ajudem a progressar en el curs.
+
+**On estem?**
+
+<!---
+Aqui va el codigo del mapa, no editar.
+--->
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=l'obrera%20sabadell&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+
+<!---
+Aqui termina el codigo del mapa.
+--->
