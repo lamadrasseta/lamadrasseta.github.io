@@ -29,7 +29,24 @@ No. Són classes dinàmiques on entre tots i totes ens ajudem a progressar en 
 Aqui va el codigo del mapa, no editar.
 --->
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=l'obrera%20sabadell&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+<style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+<style>@media screen and (min-width : 0px) and (max-width : 767px){
+.mapouter {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.mapouter iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+}</style>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=l'obrera%20sabadell&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div></div>
 
 <!---
 Aqui termina el codigo del mapa.
