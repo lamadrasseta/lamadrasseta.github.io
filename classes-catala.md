@@ -1,3 +1,4 @@
-## Català
+## Català Inicial
 
-Portes anys vivint a Catalunya i trobes que el teu català flaqueja? Acabes d’arribar al país i no entens ni papa? No et preocupis! Plataforma per la Llengua és una ONG que promou el català com a eina de cohesió social i a La Madrasseta tenim un professor!
+Acabes d’arribar a Catalunya? El català és la llengua de totes. 
+Al curs inicial podràs aprendre com guiar-te per la ciutat, els números, com presentar-te i com començar una conversa. 
