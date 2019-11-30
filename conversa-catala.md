@@ -1,3 +1,5 @@
-## A New Post
+## Conversa en Català 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Parles una mica o entens el català, però t’agradaria tenir més fluïdesa i aprendre noves paraules? 
+
+Aquest és el teu curs: mitjançant la conversa i el support mutu practicarem el català.
