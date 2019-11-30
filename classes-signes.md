@@ -1,5 +1,9 @@
-## Classes signes
+## CLlengua de signes
 
-Mai haguessis pensat que seria tan fàcil accedir a un curs de llengua de signes. Explora noves maneres de comunicar-te i sigues una persona més accessible amb aquest curs.
+Dimarts o dijous a escollir, de 19h a 20:30h.
 
-Dimarts, dimecres o dijous (2 dies)
+### Ei, saps què són les barreres comunicatives?
+Són obstacles que dificulten, limiten i fins i tot impedeixen la comunicació en alguns casos. Trenca aquestes barreres aprenent llengua de signes i comunica't de manera eficient fent servir les mans en versió catalana! 
+
+No cal tenir cap coneixement, però si fos així, fes-nos-ho saber al formulari d'inscripció. 
+
