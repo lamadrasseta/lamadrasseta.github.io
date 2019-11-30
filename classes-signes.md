@@ -1,4 +1,4 @@
-## CLlengua de signes
+## Llengua de signes
 
 Dimarts o dijous a escollir, de 19h a 20:30h.
 
