@@ -1,3 +1,3 @@
 ## Iniciació a la llengua i cultura àrab
- 
-No només t'oferim la possibilitat d'endinsar-te en una llengua tan màgica i diferent sinó també descobrir la seva fascinant cultura.
+
+Aprenderemos árabe (dialecto) y algo de clásico. También un poco de cultura, tradiciones marroquíes y como ha evolucionado el país, sobre todo en el sentido de la libertad hacia la mujer.
