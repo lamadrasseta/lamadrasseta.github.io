@@ -1,1 +1,1 @@
-<img src="horaris.jpeg" class="img-fluid">
+<img src="../horaris.jpeg" class="img-fluid">
