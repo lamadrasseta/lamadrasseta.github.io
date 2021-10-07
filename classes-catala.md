@@ -1,4 +1,5 @@
-## Català Inicial
+## CATALÀ INCIAL
 
-Acabes d’arribar a Catalunya? El català és la llengua de totes. 
-Al curs inicial podràs aprendre com guiar-te per la ciutat, els números, com presentar-te i com començar una conversa. 
+**Dimarts de 18:30 a 19:30h**
+
+Curs impartit per Plataforma per la Llengua. Aprenentatge de la llengua catalana sense gens o pocs coneixements previs. Vocabulari bàsic, expressions orals, ortografia...
