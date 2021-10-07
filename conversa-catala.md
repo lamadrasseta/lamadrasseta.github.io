@@ -1,5 +1,5 @@
 ## Conversa en Català 
 
-Parles una mica o entens el català, però t’agradaria tenir més fluïdesa i aprendre noves paraules? 
+**Dimarts de 19:30h a 20:30h**
 
-Aquest és el teu curs: mitjançant la conversa i el support mutu practicarem el català.
+Parla sense vergonya, parla en català! Si el català no és la teva llengua materna, si en saps una mica però encara et sents insegur/a a l'hora de comunicar-te, anima't a conversar amb nadius i no nadius per agafar fluïdesa en la parla i gaudir d'aquesta llengua tan bonica!
