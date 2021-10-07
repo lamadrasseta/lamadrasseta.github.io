@@ -1,4 +1,3 @@
-## REPÀS PRIMÀRIA
 
 **Dijous de 17h a 18h.**
 
