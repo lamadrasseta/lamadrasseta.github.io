@@ -22,11 +22,13 @@ description: Escola Popular del Sud de Sabadell, gratuïta i autogestionada. Com
 navbar-links:
   Qui Som: "quisom"
   Classes:
-    - Repàs Mates: "repas-mates"
-    - Repas Ciencies: "repas-ciencies"
-    - Repàs infantil: "repas-infantil"
-    - Anglès Kids: "classes-angles-kids"
-    - Francès: "classes-frances"
+    - Repàs Primaria: "repas-mates"
+    - Repàs ESO: "repas-ciencies"
+    - Dibuix: "repas-infantil"
+    - Àrab clàssic marroquí: "arab"
+    - Àrab darija marroquí: "darija"
+    - Orientació informàtica i recerca de feina: "informatica"
+    - Intercomprensió entre llengües romàniques: "intercompresio"
     - Iniciació a la llengua i cultura àrab: "classes-arab"
     - Inciació italià: "classes-italia"
     - Preparació FCE: "preparacio-fce"
@@ -35,8 +37,6 @@ navbar-links:
     - Conversa Català: "conversa-catala"
     - Castellà: "classes-castella"
     - Llengua de signes catalana: "classes-signes"
-  Tallers:
-    - Guitarra: "taller-guitarra"
   Horaris: "horaris"
   Inscriure: "inscriure"
   Contacte: "contacte"
