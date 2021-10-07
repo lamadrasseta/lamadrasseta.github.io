@@ -1,9 +1,5 @@
-## Prueba CCSE
+## Curs de preparació per al certificat de nacionalitat
 
-Preparación de la Prueba de Conocimiento Constitucionales y Socioculturales de España (CCSE) para la obtención de la nacionalidad española. 
+**Dilluns de 15:30h a 17h**
 
-Requisitos: 
-- Ser Mayor de Edad 
-- Tener conocimiento hablado y escrito del español. 
-
-El taller de preparación para la prueba CCSE, pretende aprender y practicar los conocimientos solicitados, para poder acceder a la nacionalidad española, además de terminar realizando la prueba oficial en los respectivos centros evaluadores.
+Curs de preparació del certificat de nacionalitat (CCSE). Realització de tests de prova, resolució de dubtes, repàs de l’estructura de l’examen.
