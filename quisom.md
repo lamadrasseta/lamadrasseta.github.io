@@ -12,7 +12,7 @@ La Madrasseta és un projecte actiu i obert, on qualsevol ciutadà pot oferi
 
 **Llavors, és totalment gratuït?**
 
-Només es demana una quota anual d'un màxim de 20 euros que va destinada al manteniment de les aules i la compra de material. No hi ha ningú assalariat, tot el treball és voluntari.
+Sí, les persones que comparteixen els seus coneixements ho fan de manera voluntària i els alumnes que assisteixen poden fer aportacions econòmiques o materials si volen, és totalment voluntari també.
 
 **Els cursos estan reconeguts?**
 
