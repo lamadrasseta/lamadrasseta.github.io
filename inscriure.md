@@ -1,7 +1,4 @@
 
-Inscripció curs 2021-2022. Escola Popular del Sud "La Madrasseta"
-Les classes s'impartiran al Centre Social L'Obrera (Avinguda Barberà, 142).
-
 Període de preinscripció: de l’1 al 15 d’octubre. 
 
 
